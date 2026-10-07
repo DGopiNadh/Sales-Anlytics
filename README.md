@@ -108,3 +108,4 @@ The dashboard contains two pages:
 │   └── customer-product-insight-dashboard.png
 │
 └── README.md
+```
