@@ -79,11 +79,12 @@ The dashboard contains two pages:
 - Product price distribution
 - Category analysis 
 
-## 📁 Suggested Repository Structure
+## 📁 Repository Structure
 
-Olist-Ecommerce-Analytics/
+```text
+📁 Olist-Ecommerce-Analytics/
 │
-├── Datasets/
+├── 📁 Datasets/
 │   ├── olist_orders_dataset.csv
 │   ├── olist_customers_dataset.csv
 │   ├── olist_order_items_dataset.csv
@@ -91,18 +92,18 @@ Olist-Ecommerce-Analytics/
 │   ├── olist_products_dataset.csv
 │   └── product_category_name_translation.csv
 │
-├── notebooks/
+├── 📁 notebooks/
 │   ├── 01_Big_Data_Analytics_PySpark.ipynb
 │   └── 02_Late_Delivery_Random_Forest.ipynb
 │
-├── dashboard/
+├── 📁 dashboard/
 │   └── Olist_Ecommerce_Dashboard.pbix
 │
-├── outputs/
+├── 📁 outputs/
 │   ├── olist_cleaned.csv
 │   └── customer_predictions.csv
 │
-├── images/
+├── 📁 images/
 │   ├── executive-sales-dashboard.png
 │   └── customer-product-insight-dashboard.png
 │
