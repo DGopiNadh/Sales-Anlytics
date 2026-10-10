@@ -103,8 +103,7 @@ Olist-Ecommerce-Analytics/
 │   └── customer_predictions.csv
 │
 ├── images/
-│   └── dashboard_preview.png
+│   └── (I placed all png images used for Dashboard)
 │
-├── .gitignore
 └── README.md
 ```
