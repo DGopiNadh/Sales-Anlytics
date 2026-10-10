@@ -81,8 +81,8 @@ The dashboard contains two pages:
 
 ## 📁 Suggested Repository Structure
 
+```text
 Olist-Ecommerce-Analytics/
-│
 ├── Datasets/
 │   ├── olist_orders_dataset.csv
 │   ├── olist_customers_dataset.csv
@@ -103,5 +103,8 @@ Olist-Ecommerce-Analytics/
 │   └── customer_predictions.csv
 │
 ├── images/
+│   └── dashboard_preview.png
 │
+├── .gitignore
 └── README.md
+```
