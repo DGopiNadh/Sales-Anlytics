@@ -79,9 +79,7 @@ The dashboard contains two pages:
 - Product price distribution
 - Category analysis 
 
-
 ## 📁 Suggested Repository Structure
-
 Olist-Ecommerce-Analytics/
 │
 ├── Datasets/
@@ -106,5 +104,7 @@ Olist-Ecommerce-Analytics/
 ├── images/
 │   ├── executive-sales-dashboard.png
 │   └── customer-product-insight-dashboard.png
+│
+└── README.mdr-product-insight-dashboard.png
 │
 └── README.md
