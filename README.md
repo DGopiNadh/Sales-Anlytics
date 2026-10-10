@@ -80,6 +80,7 @@ The dashboard contains two pages:
 - Category analysis 
 
 ## 📁 Suggested Repository Structure
+
 Olist-Ecommerce-Analytics/
 │
 ├── Datasets/
@@ -102,9 +103,5 @@ Olist-Ecommerce-Analytics/
 │   └── customer_predictions.csv
 │
 ├── images/
-│   ├── executive-sales-dashboard.png
-│   └── customer-product-insight-dashboard.png
-│
-└── README.mdr-product-insight-dashboard.png
 │
 └── README.md
